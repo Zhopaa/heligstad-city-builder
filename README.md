@@ -5,6 +5,11 @@
 > 🔒 Исходный код закрыт. В репозитории только описание плагина.
 > 🔒 Source code is private. This repo contains a showcase only.
 
+### Скриншоты с тестового сервера / Test server screenshots
+![City overview](media/01_city_overview.jpg)
+
+_Результат `/gorod build` на Paper 26.1.2 / result of `/gorod build` on Paper 26.1.2._
+
 ---
 
 ## Русский
